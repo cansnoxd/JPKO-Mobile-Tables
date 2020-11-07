@@ -1,4 +1,4 @@
-# KN-Empire-Mobile-Tables
+# KN-JPKO-Mobile-Tables
 
 Nothing life changing , just simple tables on excel format to edit stuff in your mobile
 
